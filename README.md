@@ -1,4 +1,4 @@
-# High-Resolution Images for the study "Exploring the Evolution of Technical Debt in Monolithic and Hybrid Microservice Architectures: An Industrial Case Study"
+# High-Resolution plots for the study "Exploring the Evolution of Technical Debt in Monolithic and Hybrid Microservice Architectures: An Industrial Case Study"
 
 This repository contains high-resolution images supporting the study *“Exploring the Evolution of Technical Debt in Monolithic and Hybrid Microservice Architectures: An Industrial Case Study.”* Includes visualizations of technical debt density (TDD) trends and statistical analyses illustrating how TDD evolves across two types of architectural styles.
 
